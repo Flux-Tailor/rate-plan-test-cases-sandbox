@@ -334,7 +334,7 @@
                     </servicePeriod>
                     <chargeName>Energy Charge</chargeName>
                     <description> The Delivery Charge that appears on the customer’s bill is the sum of the Energy Charge
-                        plus the Make-Whole Charge. Effective Date May 1, 2026, the Make-Whole Rate shall expire and the Delivery Charge that appears on the
+                        plus the Make-Whole Charge. Effective May 1, 2026, the Make-Whole Rate shall expire and the Delivery Charge that appears on the
                         customer’s bill shall not include the Make-Whole Rate.</description>
                     <chargeValue>0.07618</chargeValue>
                     <measurementDefinition>
