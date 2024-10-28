@@ -19,7 +19,7 @@
                 <tariffDpsCaseNumber></tariffDpsCaseNumber>
                 <ratePlanNumberRatePeriods/>
             </ratePlan>
-            <charges></charges>
+            <charges>hh</charges>
         </ratePlanOption>
         <scenarioInputSettingOptions>
             <customerClass></customerClass>
