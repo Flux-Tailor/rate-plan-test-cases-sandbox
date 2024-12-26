@@ -84,6 +84,35 @@
                                             <customerClasses>
                                                 <customerClass>Residential</customerClass>
                                             </customerClasses>
+                                            <ratePlanTerritories>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Orange county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>OC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Sullivan county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>SC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Rockland county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>RC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                            </ratePlanTerritories>
                                         </profile>
                                     </ratePlanApplicability>
                                     <provenanceMetadata>
@@ -170,30 +199,6 @@
                                             <maxQuantity>999999999</maxQuantity>
                                         </serviceTierThreshold>
                                     </serviceTierThresholds>
-                                    <timeOfUsePeriods>
-                                        <timeOfUsePeriod>
-                                            <measurementApplicable>energy</measurementApplicable>
-                                            <statementComponent>bundled</statementComponent>
-                                            <peakType>base</peakType>
-                                            <seasonName>Base</seasonName>
-                                            <dayType>all</dayType>
-                                            <periodStart>
-                                                <timeStart>00:00:00</timeStart>
-                                                <inclusionStatus>inclusive</inclusionStatus>
-                                            </periodStart>
-                                            <periodEnd>
-                                                <timeEnd>00:00:00</timeEnd>
-                                                <inclusionStatus>exclusive</inclusionStatus>
-                                            </periodEnd>
-                                            <ratePeriodNumberNonHolidays>1</ratePeriodNumberNonHolidays>
-                                            <ratePeriodNumberHolidays>1</ratePeriodNumberHolidays>
-                                            <totalRatePeriodsPerSeason>1</totalRatePeriodsPerSeason>
-                                            <appliesOnHolidays>true</appliesOnHolidays>
-                                            <effectivePeriod>
-                                                <startDate>2024-12-01</startDate>
-                                            </effectivePeriod>
-                                        </timeOfUsePeriod>
-                                    </timeOfUsePeriods>
                                     <charges>
                                         <minimumCharge>
                                             <effectivePeriod>
@@ -298,6 +303,35 @@
                                             <customerClasses>
                                                 <customerClass>Residential</customerClass>
                                             </customerClasses>
+                                            <ratePlanTerritories>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Orange county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>OC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Sullivan county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>SC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Rockland county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>RC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                            </ratePlanTerritories>
                                         </profile>
                                     </ratePlanApplicability>
                                     <provenanceMetadata>
@@ -384,30 +418,6 @@
                                             <maxQuantity>999999999</maxQuantity>
                                         </serviceTierThreshold>
                                     </serviceTierThresholds>
-                                    <timeOfUsePeriods>
-                                        <timeOfUsePeriod>
-                                            <measurementApplicable>energy</measurementApplicable>
-                                            <statementComponent>bundled</statementComponent>
-                                            <peakType>base</peakType>
-                                            <seasonName>Base</seasonName>
-                                            <dayType>all</dayType>
-                                            <periodStart>
-                                                <timeStart>00:00:00</timeStart>
-                                                <inclusionStatus>inclusive</inclusionStatus>
-                                            </periodStart>
-                                            <periodEnd>
-                                                <timeEnd>00:00:00</timeEnd>
-                                                <inclusionStatus>exclusive</inclusionStatus>
-                                            </periodEnd>
-                                            <ratePeriodNumberNonHolidays>1</ratePeriodNumberNonHolidays>
-                                            <ratePeriodNumberHolidays>1</ratePeriodNumberHolidays>
-                                            <totalRatePeriodsPerSeason>1</totalRatePeriodsPerSeason>
-                                            <appliesOnHolidays>true</appliesOnHolidays>
-                                            <effectivePeriod>
-                                                <startDate>2024-12-01</startDate>
-                                            </effectivePeriod>
-                                        </timeOfUsePeriod>
-                                    </timeOfUsePeriods>
                                     <charges>
                                         <minimumCharge>
                                             <effectivePeriod>
@@ -498,6 +508,35 @@
                                             <customerClasses>
                                                 <customerClass>Residential</customerClass>
                                             </customerClasses>
+                                            <ratePlanTerritories>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Orange county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>OC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Sullivan county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>SC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                                <ratePlanTerritory>
+                                                    <IedrRatePlanTerritoryId>Rockland county</IedrRatePlanTerritoryId>
+                                                    <territoryKind>legal_division</territoryKind>
+                                                    <geographicUnit></geographicUnit>
+                                                    <rawValue>RC</rawValue>
+                                                    <effectivePeriod>
+                                                        <startDate>2024-01-01</startDate>
+                                                    </effectivePeriod>
+                                                </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                         </profile>
                                     </ratePlanApplicability>
                                     <provenanceMetadata>
@@ -584,30 +623,6 @@
                                             <maxQuantity>999999999</maxQuantity>
                                         </serviceTierThreshold>
                                     </serviceTierThresholds>
-                                    <timeOfUsePeriods>
-                                        <timeOfUsePeriod>
-                                            <measurementApplicable>energy</measurementApplicable>
-                                            <statementComponent>bundled</statementComponent>
-                                            <peakType>base</peakType>
-                                            <seasonName>Base</seasonName>
-                                            <dayType>all</dayType>
-                                            <periodStart>
-                                                <timeStart>00:00:00</timeStart>
-                                                <inclusionStatus>inclusive</inclusionStatus>
-                                            </periodStart>
-                                            <periodEnd>
-                                                <timeEnd>00:00:00</timeEnd>
-                                                <inclusionStatus>exclusive</inclusionStatus>
-                                            </periodEnd>
-                                            <ratePeriodNumberNonHolidays>1</ratePeriodNumberNonHolidays>
-                                            <ratePeriodNumberHolidays>1</ratePeriodNumberHolidays>
-                                            <totalRatePeriodsPerSeason>1</totalRatePeriodsPerSeason>
-                                            <appliesOnHolidays>true</appliesOnHolidays>
-                                            <effectivePeriod>
-                                                <startDate>2024-12-01</startDate>
-                                            </effectivePeriod>
-                                        </timeOfUsePeriod>
-                                    </timeOfUsePeriods>
                                     <charges>
                                         <minimumCharge>
                                             <effectivePeriod>
