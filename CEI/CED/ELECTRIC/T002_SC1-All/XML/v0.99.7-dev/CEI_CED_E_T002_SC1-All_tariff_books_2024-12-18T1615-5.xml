@@ -87,6 +87,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -292,6 +321,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -533,6 +591,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -828,6 +915,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -1137,6 +1253,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -1432,6 +1577,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -1763,6 +1937,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -2058,6 +2261,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -2389,6 +2621,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
@@ -2684,6 +2945,35 @@
                                             <customerClass>Residential</customerClass>
                                             <customerClass>Religious</customerClass>
                                         </customerClasses>
+                                        <ratePlanTerritories>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_H</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>H</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_I</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>I</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                            <ratePlanTerritory>
+                                                <IedrRatePlanTerritoryId>NYISO_J</IedrRatePlanTerritoryId>
+                                                <territoryKind>system_operator_zone_id</territoryKind>
+                                                <geographicUnit></geographicUnit>
+                                                <rawValue>J</rawValue>
+                                                <effectivePeriod>
+                                                    <startDate>2024-01-01</startDate>
+                                                </effectivePeriod>
+                                            </ratePlanTerritory>
+                                        </ratePlanTerritories>
                                     </profile>
                                 </ratePlanApplicability>
                                 <provenanceMetadata>
